@@ -1,0 +1,5 @@
+<Host name="localhost"  appBase="webapps"
+      unpackWARs="true" autoDeploy="false">
+    <Context path="/" docBase="demo"  reloadable="true" source="com.example.demo.server:demo">
+    </Context>
+</Host>
